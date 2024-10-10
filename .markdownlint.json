@@ -1,0 +1,11 @@
+{
+  "no-duplicate-heading": {
+      "siblings_only": true
+  },
+  "MD013": {
+      "line_length": 874,
+      "code_block_line_length": 310
+  },
+  "MD029": false,
+  "MD007": false
+}
